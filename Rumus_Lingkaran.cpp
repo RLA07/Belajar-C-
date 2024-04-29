@@ -19,4 +19,5 @@ cout << "Luas Lingkaran      = " << luas << endl;
 cout << "Keliling Lingkaran  = " << keliling << endl;
 
 getch();
+return 0;
 }
