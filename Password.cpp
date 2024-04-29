@@ -1,7 +1,5 @@
 #include <iostream>
 #include <cstdlib>
-#include <thread>
-#include <chrono>
 using namespace std;
 
 int main() {
@@ -30,4 +28,5 @@ int main() {
             }
         }
     }
+    return 0;
 }
