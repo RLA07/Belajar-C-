@@ -1,8 +1,0 @@
-#include <iostream.h>
-#include <conio.h>
-void main()
-{
-clrscr();
-cout<<"Hay. Selamat menggunakan C++.\n";
-getch();
-}
