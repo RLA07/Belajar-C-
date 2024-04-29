@@ -1,7 +1,8 @@
-#include <iostream.h>
+#include <iostream>
 #include <conio.h>
-void main()
+int main()
 {
 	clrscr();
 	cout<<"Hay. Selamat menggunakan C++.\n";
+	return 0;
 }
