@@ -1,5 +1,5 @@
 #include <iostream>
-#include <stdlib.h>
+#include <cstdlib>
 #include <conio.h>
 using namespace std;
 
@@ -20,5 +20,5 @@ system("cls");
     cout << tgl_lhr.tanggal << '/' 
         << tgl_lhr.bulan << '/' 
         << tgl_lhr.tahun << endl;
-//getch();
+getch();
 }
